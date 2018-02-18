@@ -1,4 +1,4 @@
-package com.abrantix.roundedvideo;
+package com.loco.circularvideo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

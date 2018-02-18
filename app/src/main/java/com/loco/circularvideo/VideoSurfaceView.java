@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.abrantix.roundedvideo;
+package com.loco.circularvideo;
 
 import android.content.Context;
 import android.graphics.PixelFormat;

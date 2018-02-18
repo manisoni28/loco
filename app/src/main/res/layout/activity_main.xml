@@ -1,26 +1,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:gravity="center"
+    >
 
-    <com.abrantix.roundedvideo.VideoSurfaceView
+    <com.loco.circularvideo.VideoSurfaceView
         android:id="@+id/video_surface_view1"
-        android:layout_height="300dp"
-        android:layout_width="300dp"/>
-
- <!--   <com.abrantix.roundedvideo.VideoSurfaceView
-        android:id="@+id/video_surface_view2"
-        android:layout_marginTop="12dp"
-        android:layout_marginBottom="12dp"
-        android:layout_weight="5"
-        android:layout_height="0dp"
+        android:layout_height="match_parent"
         android:layout_width="match_parent"/>
-
-    <com.abrantix.roundedvideo.VideoSurfaceView
-        android:id="@+id/video_surface_view3"
-        android:layout_weight="3"
-        android:layout_height="0dp"
-        android:layout_width="match_parent"/> -->
-
 
 </LinearLayout>
